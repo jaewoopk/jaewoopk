@@ -3,7 +3,7 @@
 [![jaewopar's 42 stats](https://badge42.vercel.app/api/v2/cl6kwe8cd00790gjpz5db92um/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
-![jaewopar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoopk&count_private=true&theme=merko)
+![jaewopar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoopk&count_private=true&theme=dracula)
 
 <!--
 **jaewoopk/jaewoopk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
