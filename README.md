@@ -3,8 +3,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewoopk)](https://solved.ac/jaewoopk/)
 ![jaewopar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewoopk&count_private=true&theme=tokyonight)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jaewoopk" height="165">
-
 <!--
 **jaewoopk/jaewoopk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
