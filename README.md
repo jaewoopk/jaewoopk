@@ -21,7 +21,11 @@
 |GPTeacher|2023.03 ~ 2023.06|Chat GPT API를 통한 영어 학습 플랫폼 서비스, Frontend 및 Backend 개발|팀프로젝트|
 |Try Bank!|2023.09 ~|각 은행의 여신, 예적금 상품을 통해 나만의 최적 플랜을 짤 수 있는 서비스, Frontend 및 Backend 개발|개인 프로젝트|
 
-### ***🎖️ Awards/Certificates***
+### ***🎖️ Certificates***
+
+|자격증명|취득일자|내용|
+|---|---|---|
+|SQLD|2023.12.15|제51회 SQL 개발자(SQLD)|
 
 ### ***👨‍💻 Tech Skills!***
 
