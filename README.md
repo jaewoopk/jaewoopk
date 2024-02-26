@@ -18,7 +18,7 @@
 
 |프로젝트 이름|기간|내용|분류|
 |---|---|---|---|
-|Electronic.|2021.03 ~ 2021.06|전기차 충전소 Open Source를 활용, 전기차 사용자를 위한 네비게이션 Frontend 개발|팀프로젝트|
+|Electronic.|2021.03 ~ 2021.06|전기차 충전소 Open Source를 활용, 전기차 사용자를 위한 네비게이션 Frontend 및 Backend 개발|팀프로젝트|
 |GPTeacher|2023.03 ~ 2023.06|Chat GPT API를 통한 영어 학습 플랫폼 서비스, Frontend 및 Backend 개발|팀프로젝트|
 |Try Bank!|2023.09 ~ 2023.11|각 은행의 여신, 예적금 상품을 통해 나만의 최적 플랜을 짤 수 있는 서비스, Frontend 및 Backend 개발|개인 프로젝트|
 
