@@ -18,7 +18,9 @@
 
 |프로젝트 이름|기간|내용|분류|
 |---|---|---|---|
-|Electronic.|2021.03 ~ 2021.06|전기차 충전소 Open Source를 활용, 전기차 사용자를 위한 네비게이션 Frontend 및 Backend 개발|팀프로젝트|
+|Electronic.|2021.03 ~ 2021.06|전기차 충전소 Open API를 활용, 전기차 사용자를 위한 충전소 네비게이션 Backend 개발|팀프로젝트|
+|42Seoul Projects|2021.10 ~ 2022.10|총 8번의 C언어 프로젝트(Multi Thread, IPC 프로그램 etc)|개인프로젝트|
+|Astronaut|2022.09 ~ 2022.12|SW설계프로젝트 / C언어 기반 슈팅 게임 개발 (슈팅 로직, 슈팅 패턴 개발)|팀프로젝트|
 |GPTeacher|2023.03 ~ 2023.06|Chat GPT API를 통한 영어 학습 플랫폼 서비스, Frontend 및 Backend 개발|팀프로젝트|
 
 ### ***🎖️ Certificates***
@@ -30,6 +32,12 @@
 |SQLD|2023.12|제51회 SQL 개발자(SQLD)|
 
 ### ***👨‍💻 Tech Skills!***
+
+|스킬명|수준|설명|
+|---|---|---|
+|C|◼︎◼︎◼︎◼︎◻︎|팀 프로젝트 1회, 개인 프로젝트 8회, CS(Multi Thread, IPC 프로그램 etc)를 기반으로 프로젝트 수행 경험 (Unix/Linux 환경, Makefile, gcc, vim etc)|
+|Java|◼︎◼︎◼︎◻︎◻︎|Spring, Android Studio 프레임워크를 기반으로 프로젝트 수행 경험, Navigable<Set>을 활용한 B+트리 구현, 알고리즘 풀이 다수|
+|Python|◼︎◼︎◻︎◻︎◻︎|Django 프레임워크를 기반으로 프로젝트 수행 경험, pandas, numpy를 이용해 k-means 클러스터링 시각화 경험|
 
 ### ***📲 Frontend***
 
