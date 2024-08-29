@@ -38,6 +38,3 @@
 | Java | ◼︎◼︎◼︎◻︎◻︎ | Spring, Android Studio 프레임워크를 기반으로 프로젝트 수행 경험, Navigable<Set>을 활용한 B+트리 구현, 알고리즘 풀이 다수 |
 | Python | ◼︎◼︎◻︎◻︎◻︎ | Django 프레임워크를 기반으로 프로젝트 수행 경험, pandas, numpy를 이용해 k-means 클러스터링 시각화 경험 |
 
-https://github-readme-stats.vercel.app/api?username=jaewoopk&count_private=true&theme=tokyonight
-
-http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewoopk
